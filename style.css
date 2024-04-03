@@ -16,7 +16,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-image: url(../images/bg-header-desktop.png);
+  background-image: url(bg-header-desktop.png);
   background-repeat: no-repeat;
 }
 .container {
